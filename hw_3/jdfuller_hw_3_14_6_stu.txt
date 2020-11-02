@@ -1,0 +1,4 @@
+Barry Allen, 99, 4.0
+Bruce Wayne, 1, 3.9
+Jean Grey, 10, 4.0
+Scott Summers, 5, 3.5
